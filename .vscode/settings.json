@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgresql://hhnzfbip:c16ZfCswT0fsQJWsElHXc0JbcciraJdS@bubble.db.elephantsql.com/hhnzfbip",
+            "name": "Noted-DB"
+        }
+    ]
+}
